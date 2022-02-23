@@ -73,7 +73,7 @@
   <a href="" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/instagram.png" alt="longphamhoang-instagram" />
   </a>
-  <a href="lshen649@gmail.com" target="top">
+  <a href="mailto:lshen649@gmail.com" target="top">
     <img src="https://img.icons8.com/bubbles/100/000000/apple-mail.png" alt="longphamhoang-email" />
   </a>
 </div>
